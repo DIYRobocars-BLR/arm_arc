@@ -19,10 +19,10 @@ Some initial thoughts for a use case:
 - OpenCV 3
 
 #### TODO
-[] Hardware architecture
-[] Software architecture
-[] Board bringup of Jetson TX2
-[] fill-up the project tracker in this repo
-[] think of more TODOs
+[ ] Hardware architecture
+[ ] Software architecture
+[ ] Board bringup of Jetson TX2
+[ ] fill-up the project tracker in this repo
+[ ] think of more TODOs
 
  
