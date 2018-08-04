@@ -19,11 +19,12 @@ Some initial thoughts for a use case:
 - OpenCV 3
 
 #### TODO
-- [] Hardware architecture
-- [] Software architecture
-- [] Requirements.txt
-- [] Board bringup of Jetson TX2
-- [] fill-up the project tracker in this repo
-- [] think of more TODOs
+- [ ] Hardware architecture
+- [ ] Software architecture
+- [ ] Requirements.txt
+- [ ] Board bringup of Jetson TX2
+- [ ] fill-up the project tracker in this repo
+- [ ] think of more TODOs
 
-
+#### Additional resources list
+An [evernote list prepared by Shreeyak](https://www.evernote.com/shard/s4/sh/25b2b691-b425-44f2-a8ae-9060ea6e2579/000608dcb030e12102d6726a2211952d)
